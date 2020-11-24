@@ -1,4 +1,4 @@
-# Card-flexbox
+# Card flexbox
 
 ![Funcionamento dos cards](./assets/img/screen.gif)
 
